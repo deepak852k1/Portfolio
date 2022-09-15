@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Deepak D </span>
             from <span className="purple"> Bangalore, India.</span>
-            <br />I am pursuing Bachelor of Computer Science Engineering in The Oxford College of Engineering Bagalore.
+            <br />I am pursuing Bachelor of Computer Science Engineering in The Oxford College of Engineering Bangalore.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
